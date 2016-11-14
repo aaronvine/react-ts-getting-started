@@ -1,0 +1,9 @@
+{
+  "preset": "crockford",
+  "validateIndentation": "\t",
+  "disallowMultipleVarDecl": null,
+  "requireMultipleVarDecl": null,
+  "requireCamelCaseOrUpperCaseIdentifiers": "ignoreProperties",
+  "disallowDanglingUnderscores": null,
+  "requireSpaceBeforeObjectValues": true
+}
